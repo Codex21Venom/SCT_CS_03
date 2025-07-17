@@ -64,9 +64,9 @@ The tool **keeps prompting you** until you create a strong password or choose to
 🔐 Password Strength Checker
 Type 'exit' anytime to quit.
 
-Enter your password: hello123
-Assessment: ❌ Weak password
-Suggestions to improve:
+**Enter your password: hello123**
+**Assessment: ❌ Weak password**
+**Suggestions to improve:**
 - ❌ Include at least one uppercase letter.
 - ❌ Include at least one special character (!@#$, etc).
 
